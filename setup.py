@@ -25,7 +25,7 @@ setup(
     long_description_content_type="text/markdown",
     include_package_data=True,
     install_requires=[
-        "pillow==6.0.0",
+        "pillow==9.0.1",
         "requests==2.22.0"
     ],
 )

@@ -26,6 +26,6 @@ setup(
     include_package_data=True,
     install_requires=[
         "pillow==6.0.0",
-        "requests==2.22.0"
+        "requests==2.31.0"
     ],
 )
